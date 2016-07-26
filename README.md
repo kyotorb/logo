@@ -2,7 +2,7 @@ Kyoto.rb Logo 関連ファイル
 ======
 
 |File Name|Description|
-|-|-|
+|---|---|
 |kyotorb_logo_org.png | オリジナルファイル(200x200)|
 |kyotorb_logo.eps|vectormagic.comで生成|
 |kyotorb_logo.svg|vectormagic.comで生成|
