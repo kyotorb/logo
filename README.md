@@ -8,4 +8,4 @@ Kyoto.rb Logo 関連ファイル
 |kyotorb_logo.svg|vectormagic.comで生成|
 |kyotorb_logo_v1.ai|Aiにsvgファイル貼り付けただけ|
 |kyotorb_logo_v1_200x200.png|Aiファイルから出力|
-|kyotorb_logo_v1_200x200.png|Aiファイルから出力|
+|kyotorb_logo_v1_400x400.png|Aiファイルから出力|
